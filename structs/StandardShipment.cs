@@ -10,11 +10,11 @@ namespace Assignment2_OOP.structs
     {
         #region Constructors
        
-        public StandardShipment(string? trackingCode, string? description, double weight,
-                                 decimal deliveryFee, DeliveryAddress destination)
-            : base(trackingCode, description, weight, deliveryFee, destination)
-        {
-        }
+        //public StandardShipment(string? trackingCode, string? description, double weight,
+        //                         decimal deliveryFee, DeliveryAddress destination)
+        //    : base(trackingCode, description, weight, deliveryFee, destination)
+        //{
+        //}
         #endregion
     }
 }
